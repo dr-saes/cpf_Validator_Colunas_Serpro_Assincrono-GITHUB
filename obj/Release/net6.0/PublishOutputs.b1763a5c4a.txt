@@ -1,0 +1,14 @@
+C:\Users\Daniel Saes\Desktop\Temp\cpf-Validator-Colunas.exe
+C:\Users\Daniel Saes\Desktop\Temp\cpf-Validator-Colunas.dll
+C:\Users\Daniel Saes\Desktop\Temp\cpf-Validator-Colunas.deps.json
+C:\Users\Daniel Saes\Desktop\Temp\cpf-Validator-Colunas.runtimeconfig.json
+C:\Users\Daniel Saes\Desktop\Temp\cpf-Validator-Colunas.pdb
+C:\Users\Daniel Saes\Desktop\Temp\ClosedXML.dll
+C:\Users\Daniel Saes\Desktop\Temp\DocumentFormat.OpenXml.dll
+C:\Users\Daniel Saes\Desktop\Temp\ExcelNumberFormat.dll
+C:\Users\Daniel Saes\Desktop\Temp\Irony.dll
+C:\Users\Daniel Saes\Desktop\Temp\Newtonsoft.Json.dll
+C:\Users\Daniel Saes\Desktop\Temp\Newtonsoft.Json.Bson.dll
+C:\Users\Daniel Saes\Desktop\Temp\SixLabors.Fonts.dll
+C:\Users\Daniel Saes\Desktop\Temp\System.IO.Packaging.dll
+C:\Users\Daniel Saes\Desktop\Temp\XLParser.dll
